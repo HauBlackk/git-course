@@ -1,0 +1,8 @@
+a. Câu lệnh để cài đặt mail?
+git config --global user.email "trunghauvoo3105@gmail.com"
+Câu lệnh để cài đặt name?
+git config --blobal user.name "Hau Vo"
+b. Setup lại name của bạn về "PW -<tên của bạn>"
+git config --global user.nam "PW - Võ Trung Hau"
+c. Commit
+git commit -m "Đã hoàn thành"
