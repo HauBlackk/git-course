@@ -1,0 +1,9 @@
+a. 3 file sẽ nằm trên máy vì chưa chạy git init để khởi tạo
+b. sau khi chạy lệnh git init 3 file sẽ nằm ở vùng working directory
+c. sau khi chạy lệnh git commit -m"init project" 3 file vẫn sẽ nằm ở vùng working directory vì đã bỏ qua lệnh git add
+d. sau khi chạy lệnh git add file1 thì file1 sẽ nằm vùng staging area 
+e. sau khi chạy lệnh git commit -m"add file1" sẽ nằm vùng repository
+f. sau khi chạy lệnh git commit -m"add file" sẽ lỗi vì chưa nằm ở vùng staging area và sai tên file
+tông kết vùng working directory sẽ có file2 file3
+vùng staging area 0 file
+vùng repository sẽ có file1

@@ -1,0 +1,4 @@
+git init khởi tạo git biến thư mục hiện tại của bạn thành kho lưu trữ trên git local
+git add <file_name> thêm file đó vào vùng staging area
+git add . dấu chấm đại diện cho tất cả các file là thêm tất cả các file vào vùng staging area
+git commit -m “message”. Lưu lại lịch sử bản ghi
